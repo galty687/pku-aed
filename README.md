@@ -38,8 +38,8 @@
 
 | 页面部分           | 认领   | 用途          | 部件名                |
 | -------------- | ---- | ----------- | ------------------ |
-| Hero           |周博仁 |             | _hero.html         |
-| Features       |陈珍珍 | 改做为什么学习 AED | _features.html     |
+| Hero           | 周博仁  |             | _hero.html         |
+| Features       | 陈珍珍  | 改做为什么学习 AED | _features.html     |
 | Achievements   |      |             | _achievement.html  |
 | Pricing Table  |      | 团队介绍        | _pricing.html      |
 | Call To Action |      |             | _calltoaction.html |
@@ -65,7 +65,7 @@
 
 ## 开发指南
 
-### 动效 animate.style****
+### 动效 animate.style
 
 4.0的版本和老版本不一样，老版本的使用方式如下
 
@@ -75,7 +75,7 @@
 
 2. 手工复制动效的名字（不用用系统自带的复制，那个是用于新版本的）
 
-    ![copy-class](/Users/zhijungao/Documents/GitHub/pku-aed/readme/copy-class.png)
+    ![copy-class](/readme/copy-class.png)
 
 3. 在需要用的地方添加该 `class`
 
