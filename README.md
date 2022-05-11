@@ -1,2 +1,8 @@
-# pku-aed
-A repo to create pku aed project
+# 北大 AED 项目
+
+项目成员：
+- 陈振振
+- 2
+- 3
+- 4
+- 5
