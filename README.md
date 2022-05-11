@@ -34,4 +34,15 @@
 
  
 
- 
+ ## 任务安排
+
+| 页面部分           | 认领   | 部件名         | Pricing Table      |
+| -------------- | ---- | ----------- | ------------------ |
+| Hero           |      |             | _hero.html         |
+| Features       |      | 改做为什么学习 AED | _features.html     |
+| Achievements   |      |             | _achievement.html  |
+| Pricing Table  |      | 团队介绍        | _pricing.html      |
+| Call To Action |      |             | _calltoaction.html |
+|                |      |             |                    |
+|                |      |             |                    |
+
