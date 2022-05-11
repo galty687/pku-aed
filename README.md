@@ -63,3 +63,26 @@
 
 
 
+## 开发指南
+
+### 动效 animate.style****
+
+4.0的版本和老版本不一样，老版本的使用方式如下
+
+使用步骤**（兼容老版本）
+
+1. 浏览需要要的效果
+
+2. 手工复制动效的名字（不用用系统自带的复制，那个是用于新版本的）
+
+    ![copy-class](/Users/zhijungao/Documents/GitHub/pku-aed/readme/copy-class.png)
+
+3. 在需要用的地方添加该 `class`
+
+   ```
+   <p class="wow bounceInDown">北京大学校医院</p>
+   ```
+
+   ​
+
+
