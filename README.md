@@ -39,7 +39,7 @@
 | 页面部分           | 认领   | 用途          | 部件名                |
 | -------------- | ---- | ----------- | ------------------ |
 | Hero           |      |             | _hero.html         |
-| Features       |      | 改做为什么学习 AED | _features.html     |
+| Features       |陈珍珍 | 改做为什么学习 AED | _features.html     |
 | Achievements   |      |             | _achievement.html  |
 | Pricing Table  |      | 团队介绍        | _pricing.html      |
 | Call To Action |      |             | _calltoaction.html |
