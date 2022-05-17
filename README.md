@@ -80,10 +80,8 @@
 3. 在需要用的地方添加该 `class`
 
    ```
-   <p class="wow bounceInDown">北京大学校医院</p>
+   <p class="wow bounceInDown">北京大学校医院</p>​
    ```
-
-   ​
 
 4. 然后网页即可显示该动效。
 
