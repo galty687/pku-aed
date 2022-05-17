@@ -41,8 +41,8 @@
 | Hero           | 周博仁  |             | _hero.html         |
 | Features       | 陈珍珍  | 改做为什么学习 AED | _features.html     |
 | Achievements   | 刘若雨  |             | _achievement.html  |
-| Pricing Table  |      | 团队介绍        | _pricing.html      |
-| Call To Action |      |             | _calltoaction.html |
+| Pricing Table  | 福岛裕翔 | 团队介绍        | _pricing.html      |
+| Call To Action | 苏卓民   |             | _calltoaction.html |
 |                |      |             |                    |
 |                |      |             |                    |
 
