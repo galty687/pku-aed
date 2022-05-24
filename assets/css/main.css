@@ -2316,7 +2316,7 @@ ol {
 .our-achievement .title h2 {
     color: #fff;
     font-weight: 800;
-    font-size: 20px;
+    font-size: 25px;
     margin-bottom: 10px;
 }
 
@@ -2336,12 +2336,12 @@ ol {
 
 .our-achievement .single-achievement {
     margin-top: 50px;
-    text-align: center;
+    text-align: left;
     padding: 0px 10px;
 }
 
 .our-achievement .single-achievement h3 {
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 800;
     display: block;
     margin-bottom: 5px;
@@ -2351,7 +2351,20 @@ ol {
 .our-achievement .single-achievement p {
     font-size: 15px;
     color: #fff;
-    font-weight: 500;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.our-achievement .single-achievement li {
+    font-size: 12px;
+    color: #fff;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.our-achievement .single-achievement h4 {
+    font-size: 8px;
+    color: #fff;
+    font-weight: 700;
     text-transform: capitalize;
 }
 
