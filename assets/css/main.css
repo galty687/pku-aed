@@ -2004,7 +2004,7 @@ ol {
 
 .hero-area {
     position: relative;
-    padding: 180px 0 120px 0;
+    padding: 100px 0 120px 0;
     background: rgb(198, 0, 18);
 }
 
@@ -2316,23 +2316,33 @@ ol {
 
 .our-achievement .title h2 {
     color: #fff;
-    font-weight: 700;
-    font-size: 35px;
+    font-weight: 800;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.our-achievement .title h3 {
+    color: #fff;
+    font-weight: 600;
+    font-size: 8px;
+    display: block;
     margin-bottom: 10px;
 }
 
 .our-achievement .title p {
-    color: #fff;
+    color: rgb(37, 13, 13);
+    font-weight: 300;
+    font-size: 12px;
 }
 
 .our-achievement .single-achievement {
     margin-top: 50px;
-    text-align: center;
+    text-align: left;
     padding: 0px 10px;
 }
 
 .our-achievement .single-achievement h3 {
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 800;
     display: block;
     margin-bottom: 5px;
@@ -2342,7 +2352,20 @@ ol {
 .our-achievement .single-achievement p {
     font-size: 15px;
     color: #fff;
-    font-weight: 500;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.our-achievement .single-achievement li {
+    font-size: 12px;
+    color: #fff;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.our-achievement .single-achievement h4 {
+    font-size: 8px;
+    color: #fff;
+    font-weight: 700;
     text-transform: capitalize;
 }
 
@@ -2642,7 +2665,7 @@ ol {
 }
 
 .footer .footer-top {
-    padding: 100px 0;
+    padding: 40px 0;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
