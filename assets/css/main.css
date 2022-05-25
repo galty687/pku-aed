@@ -131,11 +131,12 @@ h6 a {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 35px;
+    text-align: center;
 }
 
 h3 {
